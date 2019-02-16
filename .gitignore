@@ -106,3 +106,16 @@ venv.bak/
 # My personal setting
 *.png
 *.jpg
+
+# C ignore
+*.M51
+*.Opt 
+*.Uv2
+*.hex
+*.lnp
+*.plg
+*.Bak 
+*.A51 
+*.LST 
+*.OBJ
+*.LST 
